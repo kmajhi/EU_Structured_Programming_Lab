@@ -1,2 +1,6 @@
 # EU_Structured_Programming_Lab
-EU Lab Questions and answers by MD. Sujon Mahamud 
+Answers on particular lab topic and practice session by MD. Sujon Mahamud 
+
+
+
+
