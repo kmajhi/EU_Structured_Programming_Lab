@@ -13,6 +13,7 @@ int main() {
     printf("Diameter of the circle is: %f\n", diameter);
     printf("Circumference of the circle is: %f\n", circumference);
     printf("Area of the circle is: %f\n", area);
-
+    
+    
     return 0;
 }
