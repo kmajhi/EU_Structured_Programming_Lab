@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  float basicSalary, grossSalary;
-  float hra, da;
+  float basicSalary, grossSalary, hra, da;
 
   printf("Enter Basic Salary: ");
   scanf("%f", &basicSalary);
