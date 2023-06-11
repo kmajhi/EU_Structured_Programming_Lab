@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  float physics, chemistry, biology, mathematics, computer;
-  float percentage;
+  float physics, chemistry, biology, mathematics, computer, percentage;
   char grade;
 
   printf("Enter marks in Physics: ");
